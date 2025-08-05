@@ -18,6 +18,5 @@ import (
 type Host = host.Host
 
 // IntrospectableHost is implemented by Host implementations that are
-// introspectable, that is, that may have introspection capability.
 // Deprecated: use github.com/libp2p/go-libp2p/core/host.IntrospectableHost instead
 type IntrospectableHost = host.IntrospectableHost

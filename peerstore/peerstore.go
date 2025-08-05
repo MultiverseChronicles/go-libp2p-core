@@ -56,7 +56,6 @@ const (
 type Peerstore = peerstore.Peerstore
 
 // PeerMetadata can handle values of any type. Serializing values is
-// up to the implementation. Dynamic type introspection may not be
 // supported, in which case explicitly enlisting types in the
 // serializer may be required.
 //
