@@ -38,3 +38,5 @@ require (
 	google.golang.org/protobuf v1.36.6 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
+
+replace github.com/libp2p/go-libp2p-core => github.com/MultiverseChronicles/go-libp2p-core v0.0.0-20250805103419-d91043e8a30c
