@@ -5,7 +5,6 @@ go 1.24.0
 require (
 	github.com/ipfs/go-cid v0.5.0
 	github.com/libp2p/go-libp2p v0.42.1
-	github.com/libp2p/go-libp2p-core v0.20.1
 	github.com/multiformats/go-multiaddr v0.16.0
 )
 
@@ -39,4 +38,4 @@ require (
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
 
-replace github.com/libp2p/go-libp2p-core => github.com/MultiverseChronicles/go-libp2p-core v0.0.0-20250805103419-d91043e8a30c
+replace github.com/libp2p/go-libp2p-core => github.com/MultiverseChronicles/go-libp2p-core v0.1.1
