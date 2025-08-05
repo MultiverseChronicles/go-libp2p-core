@@ -38,7 +38,7 @@ type Record = record.Record
 // where the Record type is defined:
 //
 //	package hello_record
-//	import record "github.com/libp2p/go-libp2p-core/record"
+//	import record "github.com/MultiverseChronicles/go-libp2p-core/record"
 //
 //	func init() {
 //	    record.RegisterType(&HelloRecord{})

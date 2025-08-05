@@ -7,7 +7,7 @@ import (
 	"github.com/libp2p/go-libp2p/core/peer"
 
 	"github.com/ipfs/go-cid"
-	ic "github.com/libp2p/go-libp2p-core/crypto"
+	ic "github.com/MultiverseChronicles/go-libp2p-core/crypto"
 )
 
 var (
